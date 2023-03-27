@@ -1,6 +1,8 @@
 # ECE_C247_project
 Analyzing EEG Signals using Neural Networks and Deep Learning
 
+######################################################################################################################################################################
+
 Questions:
 
 1.) Optimize the classification accuracy for subject 1. Does it help to train across all subjects? Answer: As mentioned in the results section of the report, optimizing the model for Subject 1 is causing an overfit failing to be more generic for all the other subjects.
