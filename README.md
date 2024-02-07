@@ -1,6 +1,8 @@
 # ECE_C247_project
 Analyzing EEG Signals using Neural Networks and Deep Learning
 
+The study evaluates and compares the performance of all 3 methods in classifying and generating motor imagery | Final project for ECE C247 at UCLA
+
 ###########################################################################################################
 
 Questions:
